@@ -1,2 +1,2 @@
-# Sales-Analysis
+# "Consumer Buying Behavior Analysis for Targeted Marketing (Python)"
 In the rapidly evolving retail landscape, understanding consumer behavior is crucial for businesses aiming to tailor their marketing strategies and improve sales. This project delves into a comprehensive sales analysis to explore purchasing patterns across different product categories—Food, Clothing, and Electronics. Specifically, it examines the propensity of male and female consumers working in various sectors to buy products in these categories. By leveraging Python for data analysis, this study aims to provide insights that can help businesses target their marketing efforts more effectively and enhance customer satisfaction.
